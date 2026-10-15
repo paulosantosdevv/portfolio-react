@@ -88,13 +88,4 @@ Os arquivos de produção serão gerados na pasta `dist/`.
 - **E-mail:** paulosantosdevv@gmail.com
 - **Projeto EndTotal:** https://endtotal.com.br/
 
-## 📌 Próximas melhorias
-
-- [ ] Adicionar capturas de tela e estudos de caso.
-- [ ] Publicar a versão online do portfólio.
-- [ ] Documentar decisões técnicas e desafios dos projetos.
-- [ ] Incluir novos projetos conforme forem concluídos.
-
----
-
 <div align="center">Feito com React, TypeScript e vontade de evoluir.</div>
